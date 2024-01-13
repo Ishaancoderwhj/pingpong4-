@@ -1,0 +1,31 @@
+body
+{
+  background-size:cover;
+}
+
+.heading{
+    width:100%;
+}
+#btnmodal{
+  float:right;
+  border:9px dotted greenyellow;
+}
+ol{
+  font-family:comic;
+  font-size:20px;
+}
+
+h4{
+  background-color: rgb(179, 255, 149);
+  color:rgb(209, 10, 10);
+  line-height: 2;
+  margin:0px;
+}
+
+canvas{
+  border:7px dotted red;
+  margin-top:100px;
+  border-radius:20px;
+  box-shadow:5px 5px 5px blue;
+width:700px;
+}
